@@ -1,3 +1,21 @@
+# Example git repository
+
+This is an example git repository for teaching purposes.  It has been
+copied from https://github.com/CxAalto/niimpy.
+
+* one
+* two
+* Four
+* five
+* six
+* seven
+* eight
+* nine
+* ten
+
+
+
+
 # Niimpy
 
 `niimpy` is a Python package for managing individual-level data.  The
